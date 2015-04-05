@@ -64,7 +64,8 @@ public class MainActivity extends ActionBarActivity {
                 R.drawable.ishihara_03, R.drawable.ishihara_04, R.drawable.ishihara_04,
                 R.drawable.ishihara_06, R.drawable.ishihara_07, R.drawable.ishihara_08,
                 R.drawable.ishihara_09, R.drawable.ishihara_10};
-
+        imvIshihara.setImageResource(intDrawable[intButton]);
+        
     }   // changeView
 
 
